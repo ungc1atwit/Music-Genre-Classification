@@ -44,8 +44,6 @@ Last but not least, the confusion matrix graphs below represent all the matrix o
 ```shell
 $ git clone https://github.com/ungc1atwit/Music-Genre-Classification.git
 ```
-There is a data.csv, which is the file we already generated. If you want to modify the code or create a new datatset, please use CreateDataset.py file by running the code below: 
-```shell
-$ python CreateDatabase.py
-```
+Please use Colab or Jupiter to modify the code in Music_Genre_Classification.ipynb and createDatabse.ipynb. 
+**Note: if you want to generated features from new dataset (audios file in .wav format), please modify the location in createDatabse.ipynb where you stored the dataset.**
 
