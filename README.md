@@ -6,6 +6,3 @@ Music genres facilitate the identification of patterns and makes it easier to fi
 We used GTZAN dataset, which provided us 1000 of 30 seconds music clips, a 100-music clip for each genre and each music clip was labeled with its own genre. 
 After that we applied Python library, LIBROSA, to visualize and extract features from the music clips and create our own dataset. For visualization, LIBROSA provides Spectrogram which is a visual representation of the spectrum of frequencies of sound or other signals as they vary with time. 
 Below are examples of two audios from two different genres.
-
-![](/Images/Jazz.png)
-![](/Images/Blues.png)
