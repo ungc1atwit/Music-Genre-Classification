@@ -22,7 +22,7 @@ Below are examples of two audios from two different genres.
 
 The table indiactes that MFCCs has a better performance than Chromagram, which is very obvious by comparing the test accuracy of MFCCs and Chromagrams. The reason might be due to the roles of Chromagram and MFCC. To be specific, according to charts below, the Chromagram is related to 12 pitch classes. These are very common and widely used in all genres. This causes the training model and prediction for the genres to be very low. However, MFCC is vital and it models the human voices and tones, which it is related to musical instrument and human voice, which truly relates to the genres. Consequently, the predictions and accuracy are higher than Chromagram.
 
-![Chromagram-MFCCs-Images](Images/Chromagrams_MFCCS.png)
+![Chromagram-MFCCs-Images](Images/Chromagrams_MFCCs.png)
 
 ## Analysis of the whole dataset
 | Algorithms | Training accuracy | Test accuracy |
