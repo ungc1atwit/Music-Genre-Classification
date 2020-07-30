@@ -39,7 +39,7 @@ Last but not least, the confusion matrix graphs below represent all the matrix o
 
 ![Confusion-Image](Images/Confusion_Matrix.png)
 
-# How to use the project
+## How to use the project
 ### Clone the respotory
 ```shell
 $ git clone https://github.com/ungc1atwit/Music-Genre-Classification.git
