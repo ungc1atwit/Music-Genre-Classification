@@ -46,3 +46,4 @@ $ git clone https://github.com/ungc1atwit/Music-Genre-Classification.git
 ```
 **Note: Please use Colab or Jupiter to modify the code in Music_Genre_Classification.ipynb and createDatabse.ipynb. If you want to generated features from new dataset (audios file in .wav format), please modify the location in createDatabse.ipynb where you stored the dataset.**
 
+**Colab: [Colab](https://colab.research.google.com/)**
