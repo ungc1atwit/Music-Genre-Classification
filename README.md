@@ -7,4 +7,4 @@ We used GTZAN dataset, which provided us 1000 of 30 seconds music clips, a 100-m
 After that we applied Python library, LIBROSA, to visualize and extract features from the music clips and create our own dataset. For visualization, LIBROSA provides Spectrogram which is a visual representation of the spectrum of frequencies of sound or other signals as they vary with time. 
 Below are examples of two audios from two different genres.
 
-![Alt-text](https://gyazo.com/df1402ce6977b39f3687803e87bf348a)
+![](/Images/Jazz.png)
