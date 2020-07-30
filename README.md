@@ -42,4 +42,10 @@ Last but not least, the confusion matrix graphs below represent all the matrix o
 # How to use the project
 ### Clone the respotory
 ```shell
-$ git clone 
+$ git clone https://github.com/ungc1atwit/Music-Genre-Classification.git
+```
+There is a data.csv, which is the file we already generated. If you want to modify the code or create a new datatset, please use CreateDataset.py file by running the code below: 
+```shell
+$ python CreateDatabase.py
+```
+
