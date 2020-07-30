@@ -8,3 +8,4 @@ After that we applied Python library, LIBROSA, to visualize and extract features
 Below are examples of two audios from two different genres.
 
 ![](/Images/Jazz.png)
+![](/Images/Blues.png)
